@@ -1,6 +1,6 @@
 # Zero To Hero ML
 
-Code from following Andrej Karpathy excellent lectures on YouTube
+Code from following Andrej Karpathy excellent lectures on [YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
 ### First Lecture
 
